@@ -11,8 +11,9 @@
   <img src="https://profile-counter.glitch.me/ElangoSubramani/count.svg"/>
 </p> -->
 
+<!-- ![Updated Badge](https://badges.pufler.dev/updated/ElangoSubramani/git-badges)&nbsp;&nbsp; -->
 
-![Updated Badge](https://badges.pufler.dev/updated/ElangoSubramani/git-badges)&nbsp;&nbsp;![Updated Badge](https://komarev.com/ghpvc/?username=ElangoSubramani&label=Profile%20views&color=0e75b6&style=flat) ![Updated Badge](https://badges.pufler.dev/commits/yearly/ElangoSubramani)  [![Repos Badge](https://badges.pufler.dev/repos/ElangoSubramani)](https://badges.pufler.dev)
+![Updated Badge](https://komarev.com/ghpvc/?username=ElangoSubramani&label=Profile%20views&color=0e75b6&style=flat) ![Updated Badge](https://badges.pufler.dev/commits/yearly/ElangoSubramani)  [![Repos Badge](https://badges.pufler.dev/repos/ElangoSubramani)](https://badges.pufler.dev)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
