@@ -3,7 +3,7 @@
 <a href="https://elangosubramani.github.io"><img src="ELANGO.gif"></a>
 
 
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- retro visitor counter -->
 
@@ -18,7 +18,7 @@
 
 
 
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
