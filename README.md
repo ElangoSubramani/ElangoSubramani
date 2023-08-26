@@ -14,6 +14,13 @@
 
 
 :mailbox: Reach me out!
+  [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elangosubramani/) [![Mail Badge](https://img.shields.io/badge/-elangoraj651@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elangoraj651@gmail.com)
+
+
+
+
+
+
 
 ![Updated Badge](https://badges.pufler.dev/updated/ElangoSubramani/git-badges)&nbsp;&nbsp;![Updated Badge](https://komarev.com/ghpvc/?username=ElangoSubramani&label=Profile%20views&color=0e75b6&style=flat) ![Updated Badge](https://badges.pufler.dev/commits/yearly/ElangoSubramani)  [![Repos Badge](https://badges.pufler.dev/repos/ElangoSubramani)](https://badges.pufler.dev)
 
