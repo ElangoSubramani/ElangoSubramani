@@ -15,8 +15,9 @@
 
 :mailbox: Reach me out!
 
-[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)&nbsp;&nbsp;-->
+[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)&nbsp;&nbsp;
 [![Updated Badge](https://komarev.com/ghpvc/?username=ElangoSubramani&label=Profile%20views&color=0e75b6&style=flat)]
 <!-- https://badges.pufler.dev/commits/monthly/ElangoSubramani -->
-https://badges.pufler.dev/commits/yearly/ElangoSubramani
+[![Updated Badge](https://badges.pufler.dev/commits/yearly/ElangoSubramani)]
+
 
