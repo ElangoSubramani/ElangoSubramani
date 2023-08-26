@@ -4,7 +4,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)&nbsp;&nbsp;-->
 [![Updated Badge](https://komarev.com/ghpvc/?username=elangosubramani&label=Profile%20views&color=0e75b6&style=flat)](https://badges.pufler.dev)
 
-<a href="https:elangosubramani.github.io"><img src="ELANGO.gif"></a>
+<a href="https://elangosubramani.github.io"><img src="ELANGO.gif"></a>
 
 <!-- retro visitor counter -->
 
