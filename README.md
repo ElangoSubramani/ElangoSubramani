@@ -2,8 +2,8 @@
 
 <img src="elgif.gi"><a href="https://elangosubramani.github.io"></a>
 
-<!-- 
-<img src="elgif.gif" href="https://elangosubramani.github.io"> -->
+
+<img src="elgif.gif">
 
 <!-- retro visitor counter -->
 
