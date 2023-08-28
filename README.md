@@ -3,7 +3,7 @@
 <img src="elgif.gi"><a href="https://elangosubramani.github.io"></a>
 
 
-<img src="elgif.gif">
+<img src="elgif.gif"><a href="https://elangosubramani.github.io"></a>
 
 <!-- retro visitor counter -->
 
