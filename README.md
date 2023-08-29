@@ -32,7 +32,7 @@
                   <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="vectorlogo.zone" height="50" width="150">
                   <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="vectorlogo.zone" height="50" width="120">
                   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="vectorlogo.zone" height="70" width="130">
-                  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="vectorlogo.zone" height="90" width="130">
+                  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="vectorlogo.zone" height="70" width="130">
                   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="vectorlogo.zone" height="50" width="190">
                 </p>
             </div>
