@@ -65,7 +65,7 @@
                   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="vectorlogo.zone">
                   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="vectorlogo.zone">
                   <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="vectorlogo.zone">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="vectorlogo.zone" height="120" width="150">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="vectorlogo.zone" height="100" width="140">
                   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="vectorlogo.zone" height="50" width="50">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vectorlogo.zone" height="50" width="50">        
                   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="vectorlogo.zone">
