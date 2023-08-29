@@ -59,10 +59,10 @@
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="vectorlogo.zone" height="100" width="140">
                   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="vectorlogo.zone" height="50" width="50">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vectorlogo.zone" height="50" width="50">        
-                  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="vectorlogo.zone">
+                  <!-- <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="vectorlogo.zone"> -->
               </p>
           </div>
-          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+          <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
         </div>
       </div>
     </div>
