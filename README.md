@@ -52,7 +52,7 @@
                 <p style="text-align:left;">
                   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" alt="vectorlogo.zone">
                   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="vectorlogo.zone">
-                  <img src="flutter_bloc_logo_full.png" alt="vectorlogo.zone"height="90" width="150">
+                  <img src="flutter_bloc_logo_full.png" alt="vectorlogo.zone"height="70" width="120">
                   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" alt="vectorlogo.zone"  height="90" width="130">
                   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="vectorlogo.zone"  height="90" width="130">
                   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" alt="vectorlogo.zone"  height="90" width="130">
@@ -65,7 +65,7 @@
                   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="vectorlogo.zone">
                   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="vectorlogo.zone">
                   <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="vectorlogo.zone">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="vectorlogo.zone" height="70" width="100">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="vectorlogo.zone" height="120" width="150">
                   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="vectorlogo.zone" height="50" width="50">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vectorlogo.zone" height="50" width="50">        
                   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="vectorlogo.zone">
