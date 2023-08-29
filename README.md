@@ -89,7 +89,19 @@
 
 
 
-
+ <h4 style="text-align:left;"><a style="color:#12d640">Send Message</a><br> </h4>
+        <div class="contact__container bd-grid">
+            <form onsubmit=sendEmail(); reset(); return false; action="https://formsubmit.co/elangoraj651@gmail.com" method="POST" class="contact__form">
+              <br>
+              <input type="text" name="name" placeholder="Name" class="contact__input" id="Name" required >
+                <input type="email" name="mail" placeholder="Email" class="contact__input" id="Email" required>
+                <textarea cols="0" name="message" placeholder="Type your message here..." rows="10" class="contact__input" id="Message" ></textarea>
+                <input type="submit" value="Send" class="contact__button button" action="https://formsubmit.co/elangoraj651@gmail.com">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_subject" value="New submission!">
+                 <input type="hidden" name="_next" value="https://elangosubramani.github.io/#contacts">
+            </form>
+        </div>
 
 <!-- https://badges.pufler.dev/commits/monthly/ElangoSubramani -->
 
