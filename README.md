@@ -30,19 +30,21 @@
   [![Linkedin Badge](https://img.shields.io/badge/-ELANGO_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elangosubramani/) [![Mail Badge](https://img.shields.io/badge/-elangoraj651@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elangoraj651@gmail.com) ![Mail Badge](https://img.shields.io/badge/-+91_9788371912-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)
 
 
- <div class="row">
+ <section id="skills" class="services">
+    <div class="container">
+      <div class="section-title">
+        <h2>Skills</h2>
+      </div>
+      <div class="row">
         <div class="col-lg-12" data-aos="fade-up">
           <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="background:#fff">
             <h4 style="text-align:left;color:#09203a">Languages and Databases</h4>
                 <p style="text-align:left;">
                   <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="vectorlogo.zone" height="50" width="150">
                   <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="vectorlogo.zone" height="50" width="120">
-                 
                   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="vectorlogo.zone" height="70" width="130">
                   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="vectorlogo.zone" height="90" width="130">
                   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="vectorlogo.zone" height="50" width="190">
-
-                 
                 </p>
             </div>
             <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="lefade-up" data-aos-delay="100" style="background:#fff">
@@ -51,11 +53,9 @@
                   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" alt="vectorlogo.zone">
                   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="vectorlogo.zone">
                   <img src="assets\img\background\flutter_bloc_logo_full.png" alt="vectorlogo.zone"height="90" width="150">
-                  
                   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" alt="vectorlogo.zone"  height="90" width="130">
                   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="vectorlogo.zone"  height="90" width="130">
                   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" alt="vectorlogo.zone"  height="90" width="130">
-                  
                   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="vectorlogo.zone">
               </p>
           </div>
@@ -64,17 +64,17 @@
                 <p style="text-align:left;">
                   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="vectorlogo.zone">
                   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="vectorlogo.zone">
-
                   <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="vectorlogo.zone">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="vectorlogo.zone" height="70" width="100">
                   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="vectorlogo.zone" height="50" width="50">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vectorlogo.zone" height="50" width="50">
-                 
-                  
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vectorlogo.zone" height="50" width="50">        
                   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="vectorlogo.zone">
               </p>
           </div>
-
+        </div>
+      </div>
+    </div>
+  </section>
 
 
 <!-- https://badges.pufler.dev/commits/monthly/ElangoSubramani -->
