@@ -42,10 +42,10 @@
                 <p style="text-align:left;">
                   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" alt="vectorlogo.zone">
                   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="vectorlogo.zone">
-                  <img src="flutter_bloc_logo_full.png" alt="vectorlogo.zone"height="70" width="120">
                   <!-- <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" alt="vectorlogo.zone"  height="90" width="130"> -->
                   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="vectorlogo.zone"  height="90" width="130">
                   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" alt="vectorlogo.zone"  height="90" width="130">
+                  <img src="flutter_bloc_logo_full.png" alt="vectorlogo.zone"height="70" width="120">
                   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="vectorlogo.zone">
               </p>
           </div>
