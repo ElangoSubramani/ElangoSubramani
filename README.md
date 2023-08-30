@@ -85,7 +85,7 @@
 
 
 :mailbox: Reach me out!
-  [![Linkedin Badge](https://img.shields.io/badge/-ELANGO_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elangosubramani/) [![Mail Badge](https://img.shields.io/badge/-elangoraj651@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elangoraj651@gmail.com) [![Mail Badge](https://img.shields.io/badge/-Telegram-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://t.me/Elango_Subramani) [![Mail Badge](https://img.shields.io/badge/-What's_App-0e76a8?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/qr/7VFIAKCDGJOVI1)
+  [![Linkedin Badge](https://img.shields.io/badge/-ELANGO_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elangosubramani/) [![Mail Badge](https://img.shields.io/badge/-elangoraj651@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elangoraj651@gmail.com) [![Mail Badge](https://img.shields.io/badge/-Telegram-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://t.me/Elango_Subramani) [![Mail Badge](https://img.shields.io/badge/-What's_App-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/qr/7VFIAKCDGJOVI1)
 
 
 <!-- https://badges.pufler.dev/commits/monthly/ElangoSubramani -->
