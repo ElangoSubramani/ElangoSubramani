@@ -16,7 +16,7 @@
 ![Updated Badge](https://komarev.com/ghpvc/?username=ElangoSubramani&label=Profile%20views&color=0e75b6&style=flat) ![Updated Badge](https://badges.pufler.dev/commits/yearly/ElangoSubramani)  [![Repos Badge](https://badges.pufler.dev/repos/ElangoSubramani)](https://badges.pufler.dev)
 
 
-
+<!-- https://badges.pufler.dev/commits/monthly/ElangoSubramani -->
 
  <section id="skills" class="services">
     <div class="container">
@@ -85,10 +85,11 @@
 
 
 :mailbox: Reach me out!
-  [![Linkedin Badge](https://img.shields.io/badge/-ELANGO_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elangosubramani/) [![Mail Badge](https://img.shields.io/badge/-elangoraj651@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elangoraj651@gmail.com) [![Mail Badge](https://img.shields.io/badge/-Telegram-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://t.me/Elango_Subramani) [![Mail Badge](https://img.shields.io/badge/-What's_App-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/qr/7VFIAKCDGJOVI1)
+  [![Linkedin Badge](https://img.shields.io/badge/-ELANGO_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elangosubramani/)  [![Mail Badge](https://img.shields.io/badge/-Telegram-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://t.me/Elango_Subramani) [![Mail Badge](https://img.shields.io/badge/-What's_App-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/qr/7VFIAKCDGJOVI1)[![Mail Badge](https://img.shields.io/badge/-elangoraj651@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elangoraj651@gmail.com)
 
 
-<!-- https://badges.pufler.dev/commits/monthly/ElangoSubramani -->
+
+
 
 
 
