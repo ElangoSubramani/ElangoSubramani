@@ -36,6 +36,7 @@
                   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="vectorlogo.zone" height="50" width="190">
                 </p>
             </div>
+            </div>
             <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
             <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="lefade-up" data-aos-delay="100" style="background:#fff">
               <h4 style="text-align:left;color:#09203a">Frameworks</h4>
@@ -49,6 +50,7 @@
                   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="vectorlogo.zone">
               </p>
           </div>
+          </div>
           <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
           <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="lefade-up" data-aos-delay="100" style="background:#fff">
               <h4 style="text-align:left;color:#09203a">Tools</h4>
@@ -61,6 +63,7 @@
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vectorlogo.zone" height="60" width="60">        
                   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="vectorlogo.zone">
               </p>
+          </div>
           </div>
           <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
         </div>
@@ -89,6 +92,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-ELANGO_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elangosubramani/)  [![Mail Badge](https://img.shields.io/badge/-Telegram-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://t.me/Elango_Subramani) [![Mail Badge](https://img.shields.io/badge/-What's_App-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/qr/7VFIAKCDGJOVI1)  [![Mail Badge](https://img.shields.io/badge/-elangoraj651@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elangoraj651@gmail.com)
 
 <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" height="190" width="220" >
+
 
 
 
